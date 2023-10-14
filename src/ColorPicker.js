@@ -39,7 +39,7 @@ const ColorPicker = () => {
     boxShadow: '0 0 10px gray',
     position: 'absolute',
     top: '420px',
-    left: '400px',
+    left: '350px',
   };
 
   const wholestyle = {
