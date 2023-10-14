@@ -25,7 +25,7 @@ const ColorPicker = () => {
 
   const colorBlockStyle = {
     width: '900px',
-    height: '275px',
+    height: '550px',
     margin: 'auto',
     backgroundColor: selectedColor || '#ffffff',
     borderRadius: '25px',
