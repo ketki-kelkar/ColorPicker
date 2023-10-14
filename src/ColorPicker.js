@@ -38,8 +38,8 @@ const ColorPicker = () => {
     margin: 'auto',
     boxShadow: '0 0 10px gray',
     position: 'absolute',
-    top: '420px',
-    left: '310px',
+    top: '400px',
+    left: '320px',
   };
 
   const wholestyle = {
@@ -53,7 +53,7 @@ const ColorPicker = () => {
 
   const pickButton = {
     position: 'absolute',
-    top: '520px',
+    top: '500px',
     left: '47vw',
     backgroundColor: '#42f56f',
     color: 'white',
